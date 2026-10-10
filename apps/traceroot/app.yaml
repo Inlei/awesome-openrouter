@@ -1,0 +1,7 @@
+name: "TraceRoot"
+description: "Trace and debug AI agents with TraceRoot. Bring your own OpenRouter API key to choose the model that powers the TraceRoot AI agent."
+url: "https://traceroot.ai"
+docs: "https://traceroot.ai/docs/ai-agent/byok"
+tags:
+  - coding
+date_added: "2026-10-10"
